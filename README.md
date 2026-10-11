@@ -3,6 +3,17 @@
 > *Developed for GENESIS'26 Hackathon — Amrita Vishwa Vidyapeetham*
 
 ---
+LIVE LINK:https://campusone-j2lm.onrender.com/
+
+DEMO USERS FOR TESTING :
+STUDENT:
+krishna.verma59@cb.amrita.edu
+student123
+Advisor CSE A:
+advisor.csea@cb.amrita.edu
+advisor123
+Along with there are many other Dashboards based on the credentials it redirects to that dashborad like the other dashboards are like Domain admin,main admin,Agasthya Warden....
+
 
 ## 📂 Project Architecture: Frontend & Backend Separation
 
@@ -65,7 +76,6 @@ CampusOne/
 ```
 
 ---
-
 ## ⚡ Quick Start: Running Both Servers
 
 ### 1. Frontend (UI & Interactive Swipe Deck)
@@ -84,3 +94,4 @@ npm start
 ```
 👉 Accessible at: **`http://localhost:5000`**  
 👉 Health check: **`http://localhost:5000/api/health`**
+
