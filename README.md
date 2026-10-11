@@ -1,4 +1,4 @@
-<img width="300" height="169" alt="Suggestion" src="https://github.com/user-attachments/assets/c3bc4405-24a3-4874-a533-f64b203a422b" /># 🏛️ CampusOne (CMRS)
+# 🏛️ CampusOne (CMRS)
 > **Unified Campus Service & e-Governance Portal**  
 > *Developed for GENESIS'26 Hackathon — Amrita Vishwa Vidyapeetham*
 
