@@ -1,17 +1,21 @@
-# 🏛️ CampusOne (CMRS)
+<img width="300" height="169" alt="Suggestion" src="https://github.com/user-attachments/assets/c3bc4405-24a3-4874-a533-f64b203a422b" /># 🏛️ CampusOne (CMRS)
 > **Unified Campus Service & e-Governance Portal**  
 > *Developed for GENESIS'26 Hackathon — Amrita Vishwa Vidyapeetham*
 
 ---
 LIVE LINK:https://campusone-j2lm.onrender.com/
 
+
 DEMO USERS FOR TESTING :
+
 STUDENT:
-krishna.verma59@cb.amrita.edu
-student123
+ Email:krishna.verma59@cb.amrita.edu
+ Password:student123
+ 
 Advisor CSE A:
-advisor.csea@cb.amrita.edu
-advisor123
+ Email:advisor.csea@cb.amrita.edu
+ Password:advisor123
+ 
 Along with there are many other Dashboards based on the credentials it redirects to that dashborad like the other dashboards are like Domain admin,main admin,Agasthya Warden....
 
 
