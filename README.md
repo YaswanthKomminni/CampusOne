@@ -16,7 +16,7 @@ Advisor CSE A:
  Email:advisor.csea@cb.amrita.edu
  Password:advisor123
  
-Along with there are many other Dashboards based on the credentials it redirects to that dashborad like the other dashboards are like Domain admin,main admin,Agasthya Warden....
+Along with thsese there are many other Dashboards based on the credentials it redirects to that dashborad like Domain admin,main admin,Agasthya Warden,etc...
 
 
 ## 📂 Project Architecture: Frontend & Backend Separation
