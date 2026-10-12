@@ -8,15 +8,8 @@ LIVE LINK:https://campusone-j2lm.onrender.com/
 
 DEMO USERS FOR TESTING :
 
-STUDENT:
- Email:krishna.verma59@cb.amrita.edu
- Password:student123
  
-Advisor CSE A:
- Email:advisor.csea@cb.amrita.edu
- Password:advisor123
- 
-Along with thsese there are many other Dashboards based on the credentials it redirects to that dashborad like Domain admin,main admin,Agasthya Warden,etc...
+Along with thsese there are many other Dashboards based on the credentials it redirects to that dashborad like students,advisor,Domain admin,main admin,Agasthya Warden,etc...
 
 
 ## 📂 Project Architecture: Frontend & Backend Separation
