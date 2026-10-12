@@ -9,7 +9,7 @@ LIVE LINK:https://campusone-j2lm.onrender.com/
 DEMO USERS FOR TESTING :
 
  
-Along with thsese there are many other Dashboards based on the credentials it redirects to that dashborad like students,advisor,Domain admin,main admin,Agasthya Warden,etc...
+Along with these there are many other Dashboards based on the credentials it redirects to that dashborad like students,advisor,Domain admin,main admin,Agasthya Warden,etc...
 
 
 ## 📂 Project Architecture: Frontend & Backend Separation
